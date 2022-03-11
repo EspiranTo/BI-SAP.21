@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/BI-SAP/lab2/lab2.srcs/sim_1/imports/BI-SAP/l2_algebra_4_test.vhd,1646365978,vhdl,,,,algebra_4_test,,,,,,,,
+D:/BI-SAP/lab2/lab2.srcs/sim_1/imports/BI-SAP/l2_schema_4_test.vhd,1646367125,vhdl,,,,schema_4_test,,,,,,,,
+D:/BI-SAP/lab2/lab2.srcs/sim_1/imports/BI-SAP/l2_truth_table_4_test.vhd,1646365133,vhdl,,,,truth_table_4_test,,,,,,,,
+D:/BI-SAP/lab2/lab2.srcs/sources_1/imports/BI-SAP/l2_algebra_4.vhd,1646366437,vhdl,D:/BI-SAP/lab2/lab2.srcs/sim_1/imports/BI-SAP/l2_algebra_4_test.vhd,,,algebra_4,,,,,,,,
+D:/BI-SAP/lab2/lab2.srcs/sources_1/imports/BI-SAP/l2_truth_table_4.vhd,1646365480,vhdl,D:/BI-SAP/lab2/lab2.srcs/sim_1/imports/BI-SAP/l2_truth_table_4_test.vhd,,,truth_table_4,,,,,,,,
+D:/BI-SAP/lab2/lab2.srcs/sources_1/imports/tmp/schema_4.vhd,1646367088,vhdl,D:/BI-SAP/lab2/lab2.srcs/sim_1/imports/BI-SAP/l2_schema_4_test.vhd,,,schema_4_vhdl,,,,,,,,
